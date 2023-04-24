@@ -1,8 +1,8 @@
 # :guitar: Riffusion
 
-<a href="https://github.com/riffusion/riffusion/actions/workflows/ci.yml?query=branch%3Amain"><img alt="CI status" src="https://github.com/riffusion/riffusion/actions/workflows/ci.yml/badge.svg" /></a>
+<a href="https://github.com/tucommenceapousser/riffusion/actions/workflows/ci.yml?query=branch%3Amain"><img alt="CI status" src="https://github.com/riffusion/riffusion/actions/workflows/ci.yml/badge.svg" /></a>
 <img alt="Python 3.9 | 3.10" src="https://img.shields.io/badge/Python-3.9%20%7C%203.10-blue" />
-<a href="https://github.com/riffusion/riffusion/tree/main/LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-yellowgreen" /></a>
+<a href="https://github.com/tucommenceapousser/riffusion/tree/main/LICENSE"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-yellowgreen" /></a>
 
 Riffusion is a library for real-time music and audio generation with stable diffusion.
 
@@ -18,7 +18,7 @@ This is the core repository for riffusion image and audio processing code.
  * Various third party integrations
 
 Related repositories:
-* Web app: https://github.com/riffusion/riffusion-app
+* Web app: https://github.com/tucommenceapousser/riffusion-app
 * Model checkpoint: https://huggingface.co/riffusion/riffusion-model-v1
 
 ## Citation
